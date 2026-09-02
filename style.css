@@ -1,0 +1,20 @@
+.btn-prueba {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: #ffffff;
+  background: #2c2c2a;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 28px;
+  cursor: pointer;
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+
+.btn-prueba:hover {
+  background: #444441;
+}
+
+.btn-prueba:active {
+  transform: scale(0.97);
+}
